@@ -1,5 +1,5 @@
 -------------------------------------------------------------------------------
-Before we begin: about the patch
+Before We Begin: About the Patch
 -------------------------------------------------------------------------------
 
 This is an unofficial, minimally maintaind verion of Psh.  It exists because 
@@ -9,6 +9,8 @@ far, but beyond that, I can make no promises.  I can only say that it includes
 very few changes, all of which are made to make the newer Perl interpreters 
 happy with this library.
 
+The original README follows, but note that much of the information on where to 
+find the code is entirely out of date.
 
 -------------------------------------------------------------------------------
 The Perl Shell (psh)
